@@ -17,6 +17,8 @@ header > img {
 
 body {
   background-color: black;
+  background-size: cover;
+  height: 100%;
 }
 img.masthead-avatar {
   width: auto;
